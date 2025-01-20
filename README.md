@@ -45,14 +45,10 @@ Login:
 
 - Users authenticate with email/password or Google.
 - On successful login, a JWT token is generated and stored in localStorage.
-- JWT Validation:
+- JWT Validation: On every protected route, the token is validated before granting access.
+- Logout: Removes the token from localStorage and redirects to the login page.
 
-On every protected route, the token is validated before granting access.
-- Logout:
-
-Removes the token from localStorage and redirects to the login page.
 ---
-
 ##  **Getting Started**
 To get a local copy up and running, follow these steps:
 
