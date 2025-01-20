@@ -3,7 +3,7 @@
 The Nazirabazar Client Side is the front-end portion of the Nazirabazar project, designed to provide users with a seamless experience in accessing job opportunities, managing accounts, and authenticating securely via email/password and Google. The application is built using React, styled with modern techniques, and integrates Firebase for authentication and data handling.
 
 ### 🌐 **Live Site URL**
-[Visit MoviePortal Here](https://job-portal-for-goribs.web.app/)
+[Visit Nazirabazar Here](https://job-portal-for-goribs.web.app/)
 
 ---
 
@@ -69,4 +69,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## 🤝 **Contributing**
-We welcome contributions to improve **MoviePortal**! Feel free to fork the repository, create a branch, and submit a pull request.
+We welcome contributions to improve **Nazirabazar**! Feel free to fork the repository, create a branch, and submit a pull request.
