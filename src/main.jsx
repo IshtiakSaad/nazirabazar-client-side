@@ -19,3 +19,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </AuthProvider>
   </React.StrictMode>
 );
+
+// https://nazirabazar-server.vercel.app/
